@@ -1,0 +1,7 @@
+path: C:\Users\GNANAGURU VIGNESH J\PycharmProjects1\AntiSpoofing\Dataset\SplitData
+train: train/images
+val: val/images
+test: test/images
+
+nc: 2
+names: ['fake', 'real']
